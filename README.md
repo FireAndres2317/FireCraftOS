@@ -1,2 +1,2 @@
-# FireCraftOS
-L'os della FireCraft
+# FireCraft
+La repo Github della FireCraft
